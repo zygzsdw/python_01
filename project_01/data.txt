@@ -1,0 +1,8 @@
+{'role': 'root', 'account': 'dev', 'password': '123456', 'department': 'dev'}
+{'role': 'admin', 'account': 'admin', 'password': '888888', 'department': 'tester'}
+{'role': 'admin', 'account': 'admin', 'password': '111111', 'department': 'tester'}
+{'account': 'ui', 'password': 'ui', 'role': 'ui', 'dept': 'ui'}
+{'account': 'test', 'password': '111111', 'role': 'test', 'dept': 'test'}
+{'account': 'ADD', 'password': '999999', 'role': 'add', 'department': 'add'}
+{'account': 'yyy', 'password': '123456', 'role': 'test', 'department': 'test'}
+{'account': 'aaa', 'password': '111111', 'role': 'UI', 'department': 'UI'}
